@@ -76,3 +76,4 @@ function stopWatch() {
         setTimeout(stopWatch, 10);
     }
 }
+
